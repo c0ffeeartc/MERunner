@@ -1,0 +1,14 @@
+.DS_Store
+
+.idea/
+*.swp
+*.DotSettings
+*.meta
+
+*.sln.DotSettings.user
+
+obj/
+bin/
+
+/packages/*
+!packages/repositories.config

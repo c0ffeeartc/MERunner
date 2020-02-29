@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MERunner", "MERunner\MERunner.csproj", "{EDDD2789-0C85-4921-9A0A-E3E21247B5BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MERunner.Core.Common", "MERunner.Core.Common\MERunner.Core.Common.csproj", "{3A28B0B7-91F8-4E56-AEDA-5AAA564C397C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDDD2789-0C85-4921-9A0A-E3E21247B5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDD2789-0C85-4921-9A0A-E3E21247B5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDD2789-0C85-4921-9A0A-E3E21247B5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDD2789-0C85-4921-9A0A-E3E21247B5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A28B0B7-91F8-4E56-AEDA-5AAA564C397C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A28B0B7-91F8-4E56-AEDA-5AAA564C397C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A28B0B7-91F8-4E56-AEDA-5AAA564C397C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A28B0B7-91F8-4E56-AEDA-5AAA564C397C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
