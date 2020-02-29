@@ -17,7 +17,7 @@ Uses [Entitas](https://github.com/sschmid/Entitas-CSharp) with [EntitasGenericAd
   - Build `MERunner.*` plugin dlls in separate solution(ensure all runtime references are specified for each project)
   - Copy MERunner files and plugin files into same folder
   - Create settings file
-  - Run `mono MERunner.exe --SettingsFile=pathToSettingsFile`
+  - Run `mono MERunner.exe --SettingsPath=pathToSettingsFile`
   
 ## Examples
   - [MERunner.Hello](https://github.com/c0ffeeartc/MERunner.Hello)
